@@ -1,3 +1,59 @@
+"use client";
+import { useState } from "react";
+import Sparkle from "../components/Sparkle";
+import { Search } from "lucide-react";
+import data24 from "@/public/data-angkatan-steik/24.json";
+import data23 from "@/public/data-angkatan-steik/23.json";
+import data22 from "@/public/data-angkatan-steik/22.json";
+import data21 from "@/public/data-angkatan-steik/21.json";
+import Card from "../components/Card";
+
+export interface IDataAngkatan {
+  No?: number; // Only 23-24
+  "NIM TPB"?: number; // Only 23-24
+  "NIM Jurusan": number;
+  "Nama Lengkap": string;
+  "Nama Panggilan"?: string; // Only 21-22
+  Jurusan: string;
+  Kampus?: string; // Only 23-24, 21-22 digabung di key 'Jurusan'
+}
+
 export default function Page() {
-  return <div className="relative h-dvh overflow-hidden">P</div>;
+  const [inputValue, setInputValue] = useState("");
+  const dataAngkatan: IDataAngkatan[] = [
+    ...data24,
+    ...data23,
+    ...data22,
+    ...data21,
+  ];
+  return (
+    <div className="relative flex h-dvh flex-col gap-4 overflow-hidden text-center">
+      <Sparkle position="tr" />
+      <p className="mt-36">Our very own</p>
+      <h1 className="text-gradient">
+        <span>NIM</span>
+        <span className="pr-4 pl-2 font-serif italic">Finder</span>
+      </h1>
+      <div className="mx-auto flex w-fit items-center gap-2 rounded-full bg-gradient-to-b from-[#A5F3FC] to-[#7C98DC] px-4">
+        <Search className="rotate-90" />
+        <input
+          className="p-2 font-medium focus:outline-none"
+          type="text"
+          placeholder="Cari NIM / Nama / ..."
+          value={inputValue}
+          onChange={(e) => {
+            setInputValue(e.target.value);
+          }}
+        />
+      </div>
+      <div
+        id="daftarDataAngkatan"
+        className="mb-4 w-fit grow self-center overflow-y-scroll"
+      >
+        {dataAngkatan.map((e, i) => (
+          <Card data={e} key={i} />
+        ))}
+      </div>
+    </div>
+  );
 }
