@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: rgba(15, 23, 42, 1);
+  --foreground: white;
 }
 
 @theme inline {
@@ -12,53 +12,48 @@
   --font-serif: var(--font-playfair-display-serif);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* template breakpoints */
+@layer base {
+  h1 {
+    @apply text-5xl font-bold tracking-tight md:text-6xl xl:text-8xl;
+  }
+
+  h2 {
+    @apply text-2xl font-bold tracking-tight sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl;
+  }
+
+  h3 {
+    @apply text-xl font-semibold tracking-tight sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl;
+  }
+
+  h4 {
+    @apply text-lg font-semibold tracking-tight sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl;
+  }
+
+  h5 {
+    @apply text-base font-medium tracking-tight sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl;
+  }
+
+  h6 {
+    @apply text-sm font-medium tracking-tight sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl;
+  }
+
+  p {
+    @apply text-base leading-relaxed font-medium;
+    /* sm:text-lg md:text-xl lg:text-2xl xl:text-2xl 2xl:text-3xl; */
   }
 }
-/* 
-@layer base { */
-/* template breakpoints */
-h1 {
-  @apply font-bold tracking-tight
-        text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-8xl;
-}
-
-h2 {
-  @apply font-bold tracking-tight
-        text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl;
-}
-
-h3 {
-  @apply font-semibold tracking-tight
-        text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl;
-}
-
-h4 {
-  @apply font-semibold tracking-tight
-        text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl;
-}
-
-h5 {
-  @apply font-medium tracking-tight
-        text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl;
-}
-
-h6 {
-  @apply font-medium tracking-tight
-        text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl;
-}
-
-p {
-  @apply text-base leading-relaxed font-medium;
-  /* sm:text-lg md:text-xl lg:text-2xl xl:text-2xl 2xl:text-3xl; */
-}
-/* } */
 
 body {
-  background: var(--background);
+  @apply overflow-hidden bg-gradient-to-br from-[rgba(15,23,42,1)] via-[rgba(30,58,138,1)] via-50% to-[rgba(15,23,42,1)] bg-cover bg-no-repeat;
   color: var(--foreground);
   font-family: var(--font-sans), sans-serif;
+}
+
+.text-gradient {
+  @apply bg-gradient-to-r from-[rgba(255,255,255,1)] via-[rgba(191,219,254,1)] via-20% to-[rgba(165,243,252,1)] to-80% bg-clip-text bg-no-repeat text-transparent drop-shadow-md drop-shadow-white/50;
+}
+
+.bg-gradient {
+  @apply bg-gradient-to-br from-[rgba(37,99,235,1)] to-[rgba(8,145,178,1)] bg-no-repeat drop-shadow-md drop-shadow-black/20;
 }
