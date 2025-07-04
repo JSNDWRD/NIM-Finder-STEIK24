@@ -8,8 +8,8 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-inter-sans);
+  --font-serif: var(--font-playfair-display-serif);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,9 +18,47 @@
     --foreground: #ededed;
   }
 }
+/* 
+@layer base { */
+/* template breakpoints */
+h1 {
+  @apply font-bold tracking-tight
+        text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-8xl;
+}
+
+h2 {
+  @apply font-bold tracking-tight
+        text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl;
+}
+
+h3 {
+  @apply font-semibold tracking-tight
+        text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl;
+}
+
+h4 {
+  @apply font-semibold tracking-tight
+        text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl;
+}
+
+h5 {
+  @apply font-medium tracking-tight
+        text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl;
+}
+
+h6 {
+  @apply font-medium tracking-tight
+        text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl;
+}
+
+p {
+  @apply text-base leading-relaxed font-medium;
+  /* sm:text-lg md:text-xl lg:text-2xl xl:text-2xl 2xl:text-3xl; */
+}
+/* } */
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), sans-serif;
 }
