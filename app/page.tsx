@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="relative flex h-dvh flex-col items-center justify-center gap-8 overflow-hidden *:text-center">
       <Sparkle position="bl" />
-      <p>Welcome to STEI-K '24</p>
+      <p>Welcome to STEI-K &apos;24</p>
       <h1>
         <span className="text-gradient font-sans">Digital</span>
         <br />
