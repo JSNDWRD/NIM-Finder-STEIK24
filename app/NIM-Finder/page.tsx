@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import Sparkle from "../components/Sparkle";
 import { Search } from "lucide-react";
 import data24 from "@/public/data-angkatan-steik/24.json";
@@ -16,16 +16,26 @@ export interface IDataAngkatan {
   "Nama Panggilan"?: string; // Only 21-22
   Jurusan: string;
   Kampus?: string; // Only 23-24, 21-22 digabung di key 'Jurusan'
+  [key: string]: string | number | undefined;
 }
 
 export default function Page() {
   const [inputValue, setInputValue] = useState("");
-  const dataAngkatan: IDataAngkatan[] = [
-    ...data24,
-    ...data23,
-    ...data22,
-    ...data21,
+  const searchValue = [
+    "Nama Lengkap",
+    "Nama Panggilan",
+    "NIM TPB",
+    "NIM Jurusan",
+    "Kampus",
+    "Jurusan",
   ];
+  const dataAngkatan: IDataAngkatan[] = useMemo(
+    () =>
+      [...data24, ...data23, ...data22, ...data21].sort(
+        (a, b) => a["NIM Jurusan"] - b["NIM Jurusan"],
+      ),
+    [],
+  );
   return (
     <div className="relative flex h-dvh flex-col gap-4 overflow-hidden text-center">
       <Sparkle position="tr" />
@@ -48,11 +58,22 @@ export default function Page() {
       </div>
       <div
         id="daftarDataAngkatan"
-        className="mb-4 w-fit grow self-center overflow-y-scroll"
+        className="mb-4 w-fit max-w-4xl grow space-y-4 self-center overflow-y-auto inset-shadow-sm"
       >
-        {dataAngkatan.map((e, i) => (
-          <Card data={e} key={i} />
-        ))}
+        {inputValue.trim().length > 4 ? (
+          dataAngkatan
+            .filter((e) =>
+              searchValue.some((f) =>
+                e[f]
+                  ?.toString()
+                  .toLowerCase()
+                  .includes(inputValue.toLowerCase()),
+              ),
+            )
+            .map((e, i) => <Card data={e} key={i} />)
+        ) : (
+          <p>Type longer keyword</p>
+        )}
       </div>
     </div>
   );
