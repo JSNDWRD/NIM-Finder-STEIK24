@@ -39,7 +39,7 @@
   }
 
   p {
-    @apply text-base leading-relaxed font-medium;
+    @apply leading-relaxed font-medium;
     /* sm:text-lg md:text-xl lg:text-2xl xl:text-2xl 2xl:text-3xl; */
   }
 }
@@ -51,9 +51,9 @@ body {
 }
 
 .text-gradient {
-  @apply bg-gradient-to-r from-[rgba(255,255,255,1)] via-[rgba(191,219,254,1)] via-20% to-[rgba(165,243,252,1)] to-80% bg-clip-text bg-no-repeat text-transparent drop-shadow-md drop-shadow-white/50;
+  @apply bg-gradient-to-br from-[rgba(255,255,255,1)] via-[rgba(191,219,254,1)] via-30% to-[rgba(165,243,252,1)] bg-clip-text bg-no-repeat text-transparent drop-shadow-md drop-shadow-white/50;
 }
 
 .bg-gradient {
-  @apply bg-gradient-to-br from-[rgba(37,99,235,1)] to-[rgba(8,145,178,1)] bg-no-repeat drop-shadow-md drop-shadow-black/20;
+  @apply bg-gradient-to-r from-[rgba(37,99,235,1)] to-[rgba(8,145,178,1)] bg-no-repeat drop-shadow-md drop-shadow-black/20;
 }

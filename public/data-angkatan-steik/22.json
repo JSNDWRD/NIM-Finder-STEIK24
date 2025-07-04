@@ -1,0 +1,1826 @@
+[
+  {
+    "NIM Jurusan": 13522001,
+    "Nama Panggilan": "Eka",
+    "Nama Lengkap": "Mohammad Nugraha Eka Prawira",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522002,
+    "Nama Panggilan": "Aril",
+    "Nama Lengkap": "Ariel Herfrison",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522003,
+    "Nama Panggilan": "Shafiq",
+    "Nama Lengkap": "Shafiq Irvansyah",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522004,
+    "Nama Panggilan": "Ward",
+    "Nama Lengkap": "Eduardus Alvito Kristiadi",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522005,
+    "Nama Panggilan": "Naufal",
+    "Nama Lengkap": "Ahmad Naufal Ramadan",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522006,
+    "Nama Panggilan": "Agil",
+    "Nama Lengkap": "Agil Fadillah Sabri",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522007,
+    "Nama Panggilan": "Irfan",
+    "Nama Lengkap": "Irfan Sidiq Permana",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522008,
+    "Nama Panggilan": "Farid",
+    "Nama Lengkap": "Ahmad Farid Mudrika",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522009,
+    "Nama Panggilan": "Yusuf",
+    "Nama Lengkap": "Muhammad Yusuf Rafi",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522010,
+    "Nama Panggilan": "Flora",
+    "Nama Lengkap": "Muhammad Yusuf Rafi",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522011,
+    "Nama Panggilan": "Dewo",
+    "Nama Lengkap": "Dewantoro Triatmojo",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522012,
+    "Nama Panggilan": "Thea",
+    "Nama Lengkap": "Thea Josephine Halim",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522013,
+    "Nama Panggilan": "Denise",
+    "Nama Lengkap": "Denise Felicia Tiowanni",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522014,
+    "Nama Panggilan": "Rafly",
+    "Nama Lengkap": "Raden Rafly Hanggaraksa Budiarto",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522015,
+    "Nama Panggilan": "Ucup/Yusuf",
+    "Nama Lengkap": "Yusuf Ardian Sandi",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522016,
+    "Nama Panggilan": "Samuel",
+    "Nama Lengkap": "Zachary Samuel Tobing",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522017,
+    "Nama Panggilan": "Dipra",
+    "Nama Lengkap": "Kresna Adi Prayogo",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522018,
+    "Nama Panggilan": "Ihsan",
+    "Nama Lengkap": "Ibrahim Ihsan Rasyid",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522019,
+    "Nama Panggilan": "Wilson",
+    "Nama Lengkap": "Wilson Yusda",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522020,
+    "Nama Panggilan": "Justin",
+    "Nama Lengkap": "Aurelius Justin Philo Fanjaya",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522021,
+    "Nama Panggilan": "Filbert",
+    "Nama Lengkap": "Filbert",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522022,
+    "Nama Panggilan": "Aldy",
+    "Nama Lengkap": "Renaldy Arief Susanto",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522023,
+    "Nama Panggilan": "Anfasa",
+    "Nama Lengkap": "Anfasa Kamil Wibowo",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522024,
+    "Nama Panggilan": "Kristo",
+    "Nama Lengkap": "Kristo Anugrah",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522025,
+    "Nama Panggilan": "Shika",
+    "Nama Lengkap": "Debrina Veisha Rashika Wijayanto",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522026,
+    "Nama Panggilan": "Rici atau Riki",
+    "Nama Lengkap": "Rici Trisna Putra",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522027,
+    "Nama Panggilan": "Eriq",
+    "Nama Lengkap": "Muhammad Al Thariq Fairuz",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522028,
+    "Nama Panggilan": "Panji",
+    "Nama Lengkap": "Panji Sri Kuncara Wisma",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522029,
+    "Nama Panggilan": "Kiel",
+    "Nama Lengkap": "Ignatius Jhon Hezkiel Chan",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522030,
+    "Nama Panggilan": "Imam",
+    "Nama Lengkap": "Imam Hanif Mulyarahman",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522031,
+    "Nama Panggilan": "Zaki",
+    "Nama Lengkap": "Zaki Yudhistira Candra",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522032,
+    "Nama Panggilan": "Tazki",
+    "Nama Lengkap": "Tazkia Nizami",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522033,
+    "Nama Panggilan": "Bryan",
+    "Nama Lengkap": "Bryan Cornelius Lauwrence",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522034,
+    "Nama Panggilan": "Bastian",
+    "Nama Lengkap": "Bastian Hendramukti Suryapratama",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522035,
+    "Nama Panggilan": "Melati",
+    "Nama Lengkap": "Melati Anggraini",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522036,
+    "Nama Panggilan": "Akbar",
+    "Nama Lengkap": "Akbar Al Fattah",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522037,
+    "Nama Panggilan": "Farhan",
+    "Nama Lengkap": "Farhan Nafis Rayhan",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522038,
+    "Nama Panggilan": "Francesco",
+    "Nama Lengkap": "Francesco Michael Kusuma",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522039,
+    "Nama Panggilan": "Edbert",
+    "Nama Lengkap": "Edbert Eddyson Gunawan",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522040,
+    "Nama Panggilan": "Dhidit",
+    "Nama Lengkap": "Dhidit Abdi Aziz",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522041,
+    "Nama Panggilan": "Bana",
+    "Nama Lengkap": "Ahmad Hasan Albana",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522042,
+    "Nama Panggilan": "Amel",
+    "Nama Lengkap": "Amalia Putri",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522043,
+    "Nama Panggilan": "Daniel",
+    "Nama Lengkap": "Daniel Mulia Putra Manurung",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522044,
+    "Nama Panggilan": "Atha/nemles",
+    "Nama Lengkap": "M Athaullah Daffa Kusuma Mulia",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522045,
+    "Nama Panggilan": "Bert",
+    "Nama Lengkap": "Elbert Chailes",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522046,
+    "Nama Panggilan": "Fael",
+    "Nama Lengkap": "Raffael Boymian Siahaan",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522047,
+    "Nama Panggilan": "Farel",
+    "Nama Lengkap": "Farel Winalda",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522048,
+    "Nama Panggilan": "Angie",
+    "Nama Lengkap": "Angelica Kierra Ninta Gurning",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522049,
+    "Nama Panggilan": "Vanson",
+    "Nama Lengkap": "Vanson Kurnialim",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522050,
+    "Nama Panggilan": "Kayla",
+    "Nama Lengkap": "Kayla Namira Mariadi",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522051,
+    "Nama Panggilan": "Kharris",
+    "Nama Lengkap": "Kharris Khisunica",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522052,
+    "Nama Panggilan": "Haikal",
+    "Nama Lengkap": "Haikal Assyauqi",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522053,
+    "Nama Panggilan": "Wiga",
+    "Nama Lengkap": "Erdianti Wiga Putri Andini",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522054,
+    "Nama Panggilan": "Ben",
+    "Nama Lengkap": "Benjamin Sihombing",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522055,
+    "Nama Panggilan": "Ben",
+    "Nama Lengkap": "Benardo",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522056,
+    "Nama Panggilan": "Diero",
+    "Nama Lengkap": "Diero Arga Purnama",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522057,
+    "Nama Panggilan": "Fairuz",
+    "Nama Lengkap": "Moh Fairuz Alauddin Yahya",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522058,
+    "Nama Panggilan": "Nuel",
+    "Nama Lengkap": "Imanuel Sebastian Girsang",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522059,
+    "Nama Panggilan": "Kiza",
+    "Nama Lengkap": "Dzaky Satrio Nugroho",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522060,
+    "Nama Panggilan": "Dhita",
+    "Nama Lengkap": "Andhita Naura Hariyanto",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522061,
+    "Nama Panggilan": "Max",
+    "Nama Lengkap": "Maximilian Sulistiyo",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522062,
+    "Nama Panggilan": "Salsa",
+    "Nama Lengkap": "Salsabiila",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522063,
+    "Nama Panggilan": "zya",
+    "Nama Lengkap": "Shazya Audrea Taufik",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522064,
+    "Nama Panggilan": "Devin",
+    "Nama Lengkap": "Devinzen",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522065,
+    "Nama Panggilan": "Rafiki",
+    "Nama Lengkap": "Rafiki Prawhira Harianto",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522066,
+    "Nama Panggilan": "Gana",
+    "Nama Lengkap": "Nyoman Ganadipa Narayana",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522067,
+    "Nama Panggilan": "Randy",
+    "Nama Lengkap": "Randy Verdian",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522068,
+    "Nama Panggilan": "Adril",
+    "Nama Lengkap": "Adril Putra Merin",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522069,
+    "Nama Panggilan": "Nabila",
+    "Nama Lengkap": "Nabila Shikoofa Muida",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522070,
+    "Nama Panggilan": "Azul",
+    "Nama Lengkap": "Marzuli Suhada M",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522071,
+    "Nama Panggilan": "Bagas",
+    "Nama Lengkap": "Bagas Sambega Rosyada",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522072,
+    "Nama Panggilan": "Dabbir, Dab",
+    "Nama Lengkap": "Ahmad Mudabbir Arif",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522073,
+    "Nama Panggilan": "Juan",
+    "Nama Lengkap": "Juan Alfred Widjaya",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522074,
+    "Nama Panggilan": "Naufal",
+    "Nama Lengkap": "Muhammad Naufal Aulia",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522075,
+    "Nama Panggilan": "Marvel",
+    "Nama Lengkap": "Marvel Pangondian",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522076,
+    "Nama Panggilan": "Akmal/Syarafi",
+    "Nama Lengkap": "Muhammad Syarafi Akmal",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522077,
+    "Nama Panggilan": "Enriq",
+    "Nama Lengkap": "Enrique Yanuar",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522078,
+    "Nama Panggilan": "Sean",
+    "Nama Lengkap": "Venantius Sean Ardi Nugroho",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522079,
+    "Nama Panggilan": "Emery",
+    "Nama Lengkap": "Emery Fathan Zwageri",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522080,
+    "Nama Panggilan": "Julian",
+    "Nama Lengkap": "Julian Chandra Sutadi",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522081,
+    "Nama Panggilan": "bert",
+    "Nama Lengkap": "Albert",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522082,
+    "Nama Panggilan": "Gonza",
+    "Nama Lengkap": "Keanu Amadius Gonza Wrahatno",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522083,
+    "Nama Panggilan": "Evelyn",
+    "Nama Lengkap": "Evelyn Yosiana",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522084,
+    "Nama Panggilan": "Dhafin",
+    "Nama Lengkap": "Dhafin Fawwaz Ikramullah",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522085,
+    "Nama Panggilan": "Hira",
+    "Nama Lengkap": "Zahira Dina Amalia",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522086,
+    "Nama Panggilan": "Afif",
+    "Nama Lengkap": "Muhammad Atpur Rafif",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522087,
+    "Nama Panggilan": "Shulha",
+    "Nama Lengkap": "Shulha",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522088,
+    "Nama Panggilan": "Rafli",
+    "Nama Lengkap": "Muhamad Rafli Rasyiidin",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522089,
+    "Nama Panggilan": "dito",
+    "Nama Lengkap": "Abdul Rafi Radityo Hutomo",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522090,
+    "Nama Panggilan": "fedrianz",
+    "Nama Lengkap": "Fedrianz Dharma",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522091,
+    "Nama Panggilan": "Ciko",
+    "Nama Lengkap": "Raden Francisco Trianto Bratadiningrat",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522092,
+    "Nama Panggilan": "Saad",
+    "Nama Lengkap": "Sa'ad Abdul Hakim",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522093,
+    "Nama Panggilan": "Matthew",
+    "Nama Lengkap": "Matthew Vladimir Hutabarat",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522094,
+    "Nama Panggilan": "Andhika",
+    "Nama Lengkap": "Andhika Tantyo Anugrah",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522095,
+    "Nama Panggilan": "Rayhan",
+    "Nama Lengkap": "Rayhan Fadhlan Azka",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522096,
+    "Nama Panggilan": "Novel",
+    "Nama Lengkap": "Novelya Putri Ramadhani",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522097,
+    "Nama Panggilan": "Darrell",
+    "Nama Lengkap": "Ellijah Darrellshane Suryanegara",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522098,
+    "Nama Panggilan": "Sutha",
+    "Nama Lengkap": "Suthasoma Mahardhika Munthe",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522099,
+    "Nama Panggilan": "Caleb",
+    "Nama Lengkap": "Julian Caleb Simandjuntak",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522100,
+    "Nama Panggilan": "Hanif",
+    "Nama Lengkap": "M. Hanief Fatkhan Nashrullah",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522101,
+    "Nama Panggilan": "Barok",
+    "Nama Lengkap": "Abdullah Mubarak",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522102,
+    "Nama Panggilan": "Hayya",
+    "Nama Lengkap": "Hayya Zuhailii Kinasih",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522103,
+    "Nama Panggilan": "Steven/Ven/Pen/Tjhia",
+    "Nama Lengkap": "",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522104,
+    "Nama Panggilan": "Diana",
+    "Nama Lengkap": "Diana Tri Handayani",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522105,
+    "Nama Panggilan": "fabian",
+    "Nama Lengkap": "Fabian Radenta Bangun",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522106,
+    "Nama Panggilan": "Brian",
+    "Nama Lengkap": "Christopher Brian",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522107,
+    "Nama Panggilan": "Althaf",
+    "Nama Lengkap": "Rayendra Althaf Taraka Noor",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522108,
+    "Nama Panggilan": "Neo",
+    "Nama Lengkap": "Muhammad Neo Cicero Koda",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522109,
+    "Nama Panggilan": "Azmi",
+    "Nama Lengkap": "Azmi Mahmud Bazeid",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522110,
+    "Nama Panggilan": "Scifo",
+    "Nama Lengkap": "Marvin Scifo Yehezkiel Hutahaean",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522111,
+    "Nama Panggilan": "Ivan/van",
+    "Nama Lengkap": "Ivan Hendrawan Tan",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522112,
+    "Nama Panggilan": "Dimas",
+    "Nama Lengkap": "Dimas Bagoes Hendrianto",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522113,
+    "Nama Panggilan": "wege / wg",
+    "Nama Lengkap": "William Glory Henderson",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522114,
+    "Nama Panggilan": "Dava",
+    "Nama Lengkap": "Muhammad Dava Fathurrahman",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522115,
+    "Nama Panggilan": "Derwin",
+    "Nama Lengkap": "Derwin Rustanly",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522116,
+    "Nama Panggilan": "Adnan, Naufal",
+    "Nama Lengkap": "Naufal Adnan",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522117,
+    "Nama Panggilan": "Mesach",
+    "Nama Lengkap": "Mesach Harmasendro",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522118,
+    "Nama Panggilan": "Berto",
+    "Nama Lengkap": "Berto Richardo Togatorop",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522119,
+    "Nama Panggilan": "Indra",
+    "Nama Lengkap": "Indraswara Galih Jayanegara",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522120,
+    "Nama Panggilan": "Rifki",
+    "Nama Lengkap": "Muhamad Rifki Virziadeili Harisman",
+    "Jurusan": "IF Ganesha"
+  },
+  {
+    "NIM Jurusan": 13522121,
+    "Nama Panggilan": "Jojo",
+    "Nama Lengkap": "Jonathan Emmanuel Saragih",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522122,
+    "Nama Panggilan": "Maulvi",
+    "Nama Lengkap": "Maulvi Ziadinda Maulana",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522123,
+    "Nama Panggilan": "Jimly",
+    "Nama Lengkap": "Jimly Nur Arif",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522124,
+    "Nama Panggilan": "Aland",
+    "Nama Lengkap": "Aland Mulia Pratama",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522125,
+    "Nama Panggilan": "Panji",
+    "Nama Lengkap": "Satriadhikara Panji Yudhistira",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522126,
+    "Nama Panggilan": "Qika",
+    "Nama Lengkap": "Rizqika Mulia Pratama",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522128,
+    "Nama Panggilan": "Andhika",
+    "Nama Lengkap": "Mohammad Andhika Fadillah",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522129,
+    "Nama Panggilan": "Hugo",
+    "Nama Lengkap": "Hugo Sabam Augusto",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522130,
+    "Nama Panggilan": "Muneki",
+    "Nama Lengkap": "Justin Aditya Putra Prabakti",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522131,
+    "Nama Panggilan": "Owen",
+    "Nama Lengkap": "Owen Tobias Sinurat",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522132,
+    "Nama Panggilan": "Hafizh",
+    "Nama Lengkap": "Hafizh Hananta Akbari",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522133,
+    "Nama Panggilan": "Joshua",
+    "Nama Lengkap": "Yosef Rafael Joshua",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522134,
+    "Nama Panggilan": "Maha",
+    "Nama Lengkap": "Shabrina Maharani",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522135,
+    "Nama Panggilan": "Chris",
+    "Nama Lengkap": "Christian Justin Hendrawan",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522136,
+    "Nama Panggilan": "Zaki",
+    "Nama Lengkap": "Muhammad Zaki",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522137,
+    "Nama Panggilan": "Rafi",
+    "Nama Lengkap": "Ahmad Rafi Maliki",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522138,
+    "Nama Panggilan": "Andi",
+    "Nama Lengkap": "Andi Marihot Sitorus",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522139,
+    "Nama Panggilan": "Attara",
+    "Nama Lengkap": "Attara Majesta Ayub",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522140,
+    "Nama Panggilan": "Yasmin",
+    "Nama Lengkap": "Yasmin Farisah Salma",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522141,
+    "Nama Panggilan": "Thoriq",
+    "Nama Lengkap": "Ahmad Thoriq Saputra",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522142,
+    "Nama Panggilan": "Farhan",
+    "Nama Lengkap": "Farhan Raditya Aji",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522143,
+    "Nama Panggilan": "Hul",
+    "Nama Lengkap": "Muhammad Fatihul Irhab",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522144,
+    "Nama Panggilan": "Nicho",
+    "Nama Lengkap": "Nicholas Reymond Sihite",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522145,
+    "Nama Panggilan": "Natha",
+    "Nama Lengkap": "Farrel Natha Saskoro",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522146,
+    "Nama Panggilan": "Zaidan",
+    "Nama Lengkap": "Muhammad Zaidan Sa'dun Robbani",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522147,
+    "Nama Panggilan": "Ikhwan",
+    "Nama Lengkap": "Ikhwan Al Hakim",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522148,
+    "Nama Panggilan": "Chika",
+    "Nama Lengkap": "Auralea Alvinia Syaikha",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522149,
+    "Nama Panggilan": "Dzaki",
+    "Nama Lengkap": "Muhammad Dzaki Arta",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522150,
+    "Nama Panggilan": "Bert",
+    "Nama Lengkap": "Albert Ghazaly",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522151,
+    "Nama Panggilan": "Samy",
+    "Nama Lengkap": "Samy Muhammad Haikal",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522152,
+    "Nama Panggilan": "Roihan",
+    "Nama Lengkap": "Muhammad Roihan",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522153,
+    "Nama Panggilan": "Ojan",
+    "Nama Lengkap": "Muhammad Fauzan Azhim",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522154,
+    "Nama Panggilan": "Chelva",
+    "Nama Lengkap": "Chelvadinda",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522155,
+    "Nama Panggilan": "Axel",
+    "Nama Lengkap": "Axel Santadi Warih",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522156,
+    "Nama Panggilan": "Jason",
+    "Nama Lengkap": "Jason Fernando",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522157,
+    "Nama Panggilan": "Davis",
+    "Nama Lengkap": "Muhammad Davis Adhipramana",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522158,
+    "Nama Panggilan": "Qais",
+    "Nama Lengkap": "Muhammad Rasheed Qais Tandjung",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522159,
+    "Nama Panggilan": "Dhinto",
+    "Nama Lengkap": "Rafif Ardhinto Ichwantoro",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522160,
+    "Nama Panggilan": "Rehan",
+    "Nama Lengkap": "Rayhan Ridhar Rahman",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522161,
+    "Nama Panggilan": "Akmal",
+    "Nama Lengkap": "Mohammad Akmal Ramadan",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522162,
+    "Nama Panggilan": "Rafa",
+    "Nama Lengkap": "Pradipta Rafa Mahesa",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522163,
+    "Nama Panggilan": "Atqiya",
+    "Nama Lengkap": "Atqiya Haydar Luqman",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 13522164,
+    "Nama Panggilan": "Valen",
+    "Nama Lengkap": "Valentino Chryslie Triadi",
+    "Jurusan": "IF Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222001,
+    "Nama Panggilan": "Jihan",
+    "Nama Lengkap": "Jihan Aurelia",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222002,
+    "Nama Panggilan": "Fira",
+    "Nama Lengkap": "Yasra Zhafirah",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222003,
+    "Nama Panggilan": "Daffa/Daffari",
+    "Nama Lengkap": "Daffari Adiyatma",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222004,
+    "Nama Panggilan": "Rifa",
+    "Nama Lengkap": "Muhammad Rifa Ansyari",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222005,
+    "Nama Panggilan": "Matthew",
+    "Nama Lengkap": "Matthew Lim",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222006,
+    "Nama Panggilan": "Justin",
+    "Nama Lengkap": "Justin Lawrance",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222007,
+    "Nama Panggilan": "Arvyn",
+    "Nama Lengkap": "Arvyno Pranata Limahardja",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222008,
+    "Nama Panggilan": "Abel",
+    "Nama Lengkap": "Abel Apriliani",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222009,
+    "Nama Panggilan": "Daffa Elengi",
+    "Nama Lengkap": "Daffa Ramadhan Elengi",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222010,
+    "Nama Panggilan": "Risma",
+    "Nama Lengkap": "Risma Rif'atissania",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222011,
+    "Nama Panggilan": "Cinta",
+    "Nama Lengkap": "Serenada Cinta Sunindyo",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222012,
+    "Nama Panggilan": "Syakira",
+    "Nama Lengkap": "Syakira Fildza Nazhifan",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222013,
+    "Nama Panggilan": "Attar",
+    "Nama Lengkap": "Aththariq Lisan Q. D. S.",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222014,
+    "Nama Panggilan": "Rashid",
+    "Nama Lengkap": "Rashid May",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222015,
+    "Nama Panggilan": "Bihurin",
+    "Nama Lengkap": "Bihurin Salsabila Firdaus",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222016,
+    "Nama Panggilan": "Davin",
+    "Nama Lengkap": "Axelius Davin",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222017,
+    "Nama Panggilan": "Dzul",
+    "Nama Lengkap": "Dzulfaqor Ali Dipangegara",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222018,
+    "Nama Panggilan": "Lutfi/Upi",
+    "Nama Lengkap": "Lutfi Khairul Amal",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222019,
+    "Nama Panggilan": "Jonathan",
+    "Nama Lengkap": "Jonathan Wiguna",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222020,
+    "Nama Panggilan": "Daffa",
+    "Nama Lengkap": "Muhammad Daffa Ikram",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222021,
+    "Nama Panggilan": "awa",
+    "Nama Lengkap": "Nasywaa Anggun Athiefah",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222022,
+    "Nama Panggilan": "louis",
+    "Nama Lengkap": "Louis Ferdyo Gunawan",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222023,
+    "Nama Panggilan": "Thalita",
+    "Nama Lengkap": "Thalita Zahra Sutejo",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222024,
+    "Nama Panggilan": "Filbert",
+    "Nama Lengkap": "Filbert Fuvian",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222025,
+    "Nama Panggilan": "Ale / Sandro",
+    "Nama Lengkap": "Alessandro Jusack Hasian",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222026,
+    "Nama Panggilan": "Tara",
+    "Nama Lengkap": "Tamara Mayranda Lubis",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222027,
+    "Nama Panggilan": "David",
+    "Nama Lengkap": "David Dewanto",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222028,
+    "Nama Panggilan": "Erwan",
+    "Nama Lengkap": "Erwan Poltak Halomoan",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222029,
+    "Nama Panggilan": "Faris",
+    "Nama Lengkap": "Habib Akhmad Al Farisi",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222030,
+    "Nama Panggilan": "Vini",
+    "Nama Lengkap": "Vini Putiasa",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222031,
+    "Nama Panggilan": "Ryka",
+    "Nama Lengkap": "Benedicta Eryka Santosa",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222032,
+    "Nama Panggilan": "Clement",
+    "Nama Lengkap": "Clement Nathanael Lim",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222033,
+    "Nama Panggilan": "Bryant",
+    "Nama Lengkap": "Anthony Bryant Gouw",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222034,
+    "Nama Panggilan": "Chris/Cito",
+    "Nama Lengkap": "Christoper Daniel",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222035,
+    "Nama Panggilan": "Gracie",
+    "Nama Lengkap": "Lydia Gracia",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222036,
+    "Nama Panggilan": "Oliv",
+    "Nama Lengkap": "Olivia Christy Lismanto",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222037,
+    "Nama Panggilan": "Dito",
+    "Nama Lengkap": "Alfandito Rais Akbar",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222038,
+    "Nama Panggilan": "Kodi",
+    "Nama Lengkap": "Qady Zakka Raymaula",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222039,
+    "Nama Panggilan": "Billy",
+    "Nama Lengkap": "Billy Samuel Setiawan",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222040,
+    "Nama Panggilan": "Deva",
+    "Nama Lengkap": "Regina Deva Carissa",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222041,
+    "Nama Panggilan": "Kezia",
+    "Nama Lengkap": "Kezia Caren Cahyadi",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222042,
+    "Nama Panggilan": "Eldwin",
+    "Nama Lengkap": "Eldwin Pradipta",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222043,
+    "Nama Panggilan": "ricky",
+    "Nama Lengkap": "Ricky Wijaya",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222044,
+    "Nama Panggilan": "Dilla",
+    "Nama Lengkap": "Khansa Adilla Reva",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222045,
+    "Nama Panggilan": "Agif",
+    "Nama Lengkap": "Givari Al Fachri",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222046,
+    "Nama Panggilan": "Seno",
+    "Nama Lengkap": "Akmal Galih Aji Sugmo Seno",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222047,
+    "Nama Panggilan": "Dama",
+    "Nama Lengkap": "Dama Dhananjaya Daliman",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222048,
+    "Nama Panggilan": "Mattheuw",
+    "Nama Lengkap": "Mattheuw Suciadi Wijaya",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222049,
+    "Nama Panggilan": "Will",
+    "Nama Lengkap": "Willhelmina Rachel Silalahi",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222050,
+    "Nama Panggilan": "Nico",
+    "Nama Lengkap": "Nicolaas Heru Dreandachrista",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222051,
+    "Nama Panggilan": "Firsa/Pica",
+    "Nama Lengkap": "Firsa Athaya Raissa Alifah",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222052,
+    "Nama Panggilan": "yaafi",
+    "Nama Lengkap": "Muhammad Yaafi Wasesa Putra",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222053,
+    "Nama Panggilan": "Bastian",
+    "Nama Lengkap": "Bastian Natanael Sibarani",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222054,
+    "Nama Panggilan": "nael",
+    "Nama Lengkap": "Natanael Steven Simangunsong",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222055,
+    "Nama Panggilan": "Thalia",
+    "Nama Lengkap": "Dinda Thalia Fahira",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222056,
+    "Nama Panggilan": "Irfan",
+    "Nama Lengkap": "Irfan Musthofa",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222057,
+    "Nama Panggilan": "Christopher",
+    "Nama Lengkap": "Christopher Richard Chandra",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222058,
+    "Nama Panggilan": "nico",
+    "Nama Lengkap": "Matthew Nicholas Gunawan",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222059,
+    "Nama Panggilan": "Elen",
+    "Nama Lengkap": "Eleanor Cordelia",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222060,
+    "Nama Panggilan": "TAUFIQ",
+    "Nama Lengkap": "Taufiq Ramadhan Ahmad",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222061,
+    "Nama Panggilan": "Winata",
+    "Nama Lengkap": "Winata Tristan",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222062,
+    "Nama Panggilan": "Nafisha",
+    "Nama Lengkap": "Nafisha Virgin",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222063,
+    "Nama Panggilan": "Faiz",
+    "Nama Lengkap": "Muhammad Faiz Atharrahman",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222064,
+    "Nama Panggilan": "Tanto",
+    "Nama Lengkap": "Hartanto Luwis",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222065,
+    "Nama Panggilan": "Naomi",
+    "Nama Lengkap": "Naomi Pricilla Agustine",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222066,
+    "Nama Panggilan": "Ammar",
+    "Nama Lengkap": "Ammar Naufal",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222067,
+    "Nama Panggilan": "Rafly",
+    "Nama Lengkap": "Muhammad Rafly",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222068,
+    "Nama Panggilan": "Iqbal",
+    "Nama Lengkap": "Raizan Iqbal Resi",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222069,
+    "Nama Panggilan": "Rafi",
+    "Nama Lengkap": "Muhammad Rafi Dhiyaulhaq",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222070,
+    "Nama Panggilan": "Favian",
+    "Nama Lengkap": "Favian Izza Diasputra",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222071,
+    "Nama Panggilan": "Richie",
+    "Nama Lengkap": "Richie Leonardo",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222072,
+    "Nama Panggilan": "Kevinza",
+    "Nama Lengkap": "Muhammad Kevinza Faiz",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222073,
+    "Nama Panggilan": "Yoga",
+    "Nama Lengkap": "Yoga Putra Pratama",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222074,
+    "Nama Panggilan": "Kayla/Kadey",
+    "Nama Lengkap": "Kayla Dyara",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222075,
+    "Nama Panggilan": "Josia",
+    "Nama Lengkap": "Josia Ryan Juliandy Silalahi",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222076,
+    "Nama Panggilan": "Theo",
+    "Nama Lengkap": "Theo Livius Natael",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222077,
+    "Nama Panggilan": "io",
+    "Nama Lengkap": "Mario Hermawan Setiadi",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222078,
+    "Nama Panggilan": "Monic",
+    "Nama Lengkap": "Monica Angela Hartono",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222079,
+    "Nama Panggilan": "Alvin",
+    "Nama Lengkap": "Alvin Fadhilah Akmal",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222080,
+    "Nama Panggilan": "Athhar",
+    "Nama Lengkap": "Athhar Mahendra Umar",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222081,
+    "Nama Panggilan": "Harry",
+    "Nama Lengkap": "Harry Truman Suhalim",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222082,
+    "Nama Panggilan": "Habibi",
+    "Nama Lengkap": "Ahmad Habibie Marjan",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222083,
+    "Nama Panggilan": "Viktor Arsindiantoro Siringoringo",
+    "Nama Lengkap": "Viktor Arsindiantoro Siringoringo",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222084,
+    "Nama Panggilan": "Farhan",
+    "Nama Lengkap": "Ananda Farhan Raihandra",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222085,
+    "Nama Panggilan": "Dedy",
+    "Nama Lengkap": "Dedy Hofmanindo Saragih",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222086,
+    "Nama Panggilan": "Juan",
+    "Nama Lengkap": "Juan Sohuturon Arauna Siagian",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222087,
+    "Nama Panggilan": "Satria",
+    "Nama Lengkap": "Satria Wisnu Wibowo",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222088,
+    "Nama Panggilan": "Guntur",
+    "Nama Lengkap": "Guntur Oktavianto Nugroho",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222089,
+    "Nama Panggilan": "Adli",
+    "Nama Lengkap": "Muhammad Adli Arindra",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222090,
+    "Nama Panggilan": "Kerlyn",
+    "Nama Lengkap": "Kerlyn Deslia Andeskar",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222091,
+    "Nama Panggilan": "Valdi",
+    "Nama Lengkap": "Timotius Vivaldi Gunawan",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222092,
+    "Nama Panggilan": "Raihan",
+    "Nama Lengkap": "Muhammad Raihan Ariffianto",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222093,
+    "Nama Panggilan": "Micky",
+    "Nama Lengkap": "Micky Valentino",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222094,
+    "Nama Panggilan": "Yovanka",
+    "Nama Lengkap": "Yovanka Sandrina Maharaja",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222095,
+    "Nama Panggilan": "Malam",
+    "Nama Lengkap": "Wisyendra Lunarmalam",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222096,
+    "Nama Panggilan": "Farah",
+    "Nama Lengkap": "Farah Aulia",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222097,
+    "Nama Panggilan": "Hakim",
+    "Nama Lengkap": "Muhammad Nurul Hakim",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222098,
+    "Nama Panggilan": "Ridho",
+    "Nama Lengkap": "Muhammad Ridho Rabbani",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222099,
+    "Nama Panggilan": "Aura",
+    "Nama Lengkap": "Dahayu Ramaniya Aurasindu",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222100,
+    "Nama Panggilan": "Ervina",
+    "Nama Lengkap": "Ervina Limka",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222101,
+    "Nama Panggilan": "Steven",
+    "Nama Lengkap": "Steven Adrian Corne",
+    "Jurusan": "STI Ganesha"
+  },
+  {
+    "NIM Jurusan": 18222103,
+    "Nama Panggilan": "Reffy",
+    "Nama Lengkap": "Muhammad Reffy Haykal",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222104,
+    "Nama Panggilan": "aruna",
+    "Nama Lengkap": "Adinda Khairunnisa Indraputri",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222105,
+    "Nama Panggilan": "Farras",
+    "Nama Lengkap": "Rajendra Farras Rayhan",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222106,
+    "Nama Panggilan": "Audra",
+    "Nama Lengkap": "Audra Zelvania Putri Harjanto",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222107,
+    "Nama Panggilan": "Lina / Lani",
+    "Nama Lengkap": "Lina Azizah Ramadhani Hardyanti",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222108,
+    "Nama Panggilan": "Daffa",
+    "Nama Lengkap": "Muhammad Daffa Kusuma Atmaja",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222109,
+    "Nama Panggilan": "Fawwaz",
+    "Nama Lengkap": "Fawwaz Aydin Mustofa",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222110,
+    "Nama Panggilan": "Gracya/cya",
+    "Nama Lengkap": "Gracya Tio Damena Sidabutar",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222111,
+    "Nama Panggilan": "Afnan",
+    "Nama Lengkap": "Moh Afnan Fawaz",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222112,
+    "Nama Panggilan": "Jeremy",
+    "Nama Lengkap": "Jeremy Deandito",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222113,
+    "Nama Panggilan": "Anggie",
+    "Nama Lengkap": "Angelica Aliwinata",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222114,
+    "Nama Panggilan": "Nathan",
+    "Nama Lengkap": "Nathaniel Liady",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222115,
+    "Nama Panggilan": "Marcell",
+    "Nama Lengkap": "Gabriel Marcellino Joestiawan",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222116,
+    "Nama Panggilan": "Jason",
+    "Nama Lengkap": "Jason Jahja",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222117,
+    "Nama Panggilan": "Ahmad Fawwazi",
+    "Nama Lengkap": "Ahmad Fawwazi",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222118,
+    "Nama Panggilan": "qie",
+    "Nama Lengkap": "Rizqi Andhika Pratama",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222119,
+    "Nama Panggilan": "Aldi",
+    "Nama Lengkap": "M. Rivaldi Mahari",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222120,
+    "Nama Panggilan": "Aqila",
+    "Nama Lengkap": "Aqila Ataa",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222121,
+    "Nama Panggilan": "Gigim",
+    "Nama Lengkap": "Gymnastiar Anwar",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222122,
+    "Nama Panggilan": "Regan",
+    "Nama Lengkap": "Regan Adiesta Mahendra",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222123,
+    "Nama Panggilan": "meli",
+    "Nama Lengkap": "Melissa Trenggono",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222124,
+    "Nama Panggilan": "Dika",
+    "Nama Lengkap": "Fadian Alif Mahardika",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222125,
+    "Nama Panggilan": "Sekar",
+    "Nama Lengkap": "Sekar Anindita Nurjadini",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222126,
+    "Nama Panggilan": "Zakiy",
+    "Nama Lengkap": "Alfaza Naufal Zakiy",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222127,
+    "Nama Panggilan": "Kasyfil",
+    "Nama Lengkap": "M. Kasyfil Aziz",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222128,
+    "Nama Panggilan": "Anin",
+    "Nama Lengkap": "Anindita Widya Santoso",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222129,
+    "Nama Panggilan": "Faishal",
+    "Nama Lengkap": "Muhammad Faishal Putra",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222130,
+    "Nama Panggilan": "Bryan",
+    "Nama Lengkap": "Bryan P. Hutagalung",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222131,
+    "Nama Panggilan": "Cicus / Ncus",
+    "Nama Lengkap": "Samuel Franciscus Togar Hasurungan",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222132,
+    "Nama Panggilan": "irul",
+    "Nama Lengkap": "Chairul Nur Wahid",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222133,
+    "Nama Panggilan": "Hanan",
+    "Nama Lengkap": "Hanan Fitra Salam",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222134,
+    "Nama Panggilan": "Ardra",
+    "Nama Lengkap": "Ardra Rafif Sahasika",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222135,
+    "Nama Panggilan": "NJ",
+    "Nama Lengkap": "Nicolas Jeremy Marulitua Simanjuntak",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222136,
+    "Nama Panggilan": "Faishal",
+    "Nama Lengkap": "Muhammad Faishal Firdaus",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222137,
+    "Nama Panggilan": "Tim",
+    "Nama Lengkap": "Timothy Haposan Simanjuntak",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222138,
+    "Nama Panggilan": "belva",
+    "Nama Lengkap": "Khayla Belva Annandira",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222139,
+    "Nama Panggilan": "icha",
+    "Nama Lengkap": "Salsabila Azzahra",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222140,
+    "Nama Panggilan": "Maul",
+    "Nama Lengkap": "Mohamad Maulana Firdaus Ramadhan",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222141,
+    "Nama Panggilan": "Yusril",
+    "Nama Lengkap": "Yusril Fazri Mahendra",
+    "Jurusan": "STI Jatinangor"
+  },
+  {
+    "NIM Jurusan": 18222142,
+    "Nama Panggilan": "",
+    "Nama Lengkap": "Padmanabha Adyaksa Setyanto",
+    "Jurusan": "STI Ganesha"
+  }
+]
