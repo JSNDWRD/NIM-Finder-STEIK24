@@ -55,6 +55,9 @@ export default function Dialog({
 
   return (
     <div
+      onClick={(e) => {
+        if (e.target == e.currentTarget) closeDialog();
+      }}
       className={`absolute top-0 left-1/2 flex h-dvh w-dvw -translate-x-1/2 items-center justify-center p-2 backdrop-blur-md transition-opacity ${data ? "z-[100] opacity-100" : "pointer-events-none -z-50 opacity-0"}`}
     >
       <div className="flex min-h-40 w-full max-w-3xl flex-col gap-4 rounded-md border border-[#BFDBFE] bg-gradient-to-br from-[#244296] to-[#354F9A] px-6 py-4 text-start drop-shadow-md transition-colors hover:from-[#354F9A] hover:to-[#244296]">

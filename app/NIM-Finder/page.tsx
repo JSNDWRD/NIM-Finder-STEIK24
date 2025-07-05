@@ -58,10 +58,10 @@ export default function Page() {
   });
 
   const finalDataAngkatan = useMemo(() => {
-    let result = dataAngkatan;
+    let res = dataAngkatan;
 
     if (sortNFilter.filterJurusan) {
-      result = result.filter((e) =>
+      res = res.filter((e) =>
         e["NIM Jurusan"]
           .toString()
           .startsWith(sortNFilter.filterJurusan == "IF" ? "135" : "182"),
@@ -69,7 +69,7 @@ export default function Page() {
     }
 
     if (sortNFilter.filterKampus) {
-      result = result.filter(
+      res = res.filter(
         (e) =>
           e.Jurusan.endsWith(sortNFilter.filterKampus) ||
           e.Kampus?.endsWith(sortNFilter.filterKampus),
@@ -77,7 +77,7 @@ export default function Page() {
     }
 
     if (sortNFilter.filterAngkatan) {
-      result = result.filter(
+      res = res.filter(
         (e) =>
           e["NIM Jurusan"].toString().substring(3, 5) ===
           sortNFilter.filterAngkatan,
@@ -85,16 +85,16 @@ export default function Page() {
     }
 
     if (sortNFilter.sortNIM == "asc") {
-      result = [...result].sort(
+      res = [...res].sort(
         (a, b) => Number(a["NIM Jurusan"]) - Number(b["NIM Jurusan"]),
       );
     } else if (sortNFilter.sortNIM == "desc") {
-      result = [...result].sort(
+      res = [...res].sort(
         (a, b) => Number(b["NIM Jurusan"]) - Number(a["NIM Jurusan"]),
       );
     }
 
-    return result;
+    return res;
   }, [dataAngkatan, sortNFilter]);
 
   return (
@@ -198,16 +198,24 @@ export default function Page() {
         className="mb-4 w-fit max-w-4xl grow space-y-4 self-center overflow-y-auto px-2 inset-shadow-sm"
       >
         {inputValue.trim().length > 4 ? (
-          finalDataAngkatan
-            .filter((e) =>
-              searchValue.some((f) =>
-                e[f]
-                  ?.toString()
-                  .toLowerCase()
-                  .includes(inputValue.toLowerCase()),
-              ),
-            )
-            .map((e, i) => <Card data={e} key={i} dialogData={openDialog} />)
+          finalDataAngkatan.filter((e) =>
+            searchValue.some((f) =>
+              e[f]?.toString().toLowerCase().includes(inputValue.toLowerCase()),
+            ),
+          ).length > 0 ? (
+            finalDataAngkatan
+              .filter((e) =>
+                searchValue.some((f) =>
+                  e[f]
+                    ?.toString()
+                    .toLowerCase()
+                    .includes(inputValue.toLowerCase()),
+                ),
+              )
+              .map((e, i) => <Card data={e} key={i} dialogData={openDialog} />)
+          ) : (
+            <p>Results not found.</p>
+          )
         ) : (
           <p>Type longer keyword</p>
         )}
