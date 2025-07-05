@@ -19,7 +19,7 @@ export default function Card({
   const prodi = data["NIM Jurusan"].toString().substring(0, 3);
   const lokasi =
     data.Kampus ??
-    (prodi === "135" ? data.Jurusan.slice(3) : data.Jurusan.slice(4)) ??
+    data.Jurusan.split(" ")[data.Jurusan.split(" ").length - 1] ??
     "";
   const toggleDialog = () => dialogData(data);
   return (
