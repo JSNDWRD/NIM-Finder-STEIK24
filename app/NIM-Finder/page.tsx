@@ -82,7 +82,11 @@ export default function Page() {
         ) : (
           <p>Type longer keyword</p>
         )}
-        <Dialog data={curr} closeDialog={closeDialog} />
+        <Dialog
+          data={curr}
+          closeDialog={closeDialog}
+          setCurr={(e: IDataAngkatan | null) => setCurr(e)}
+        />
       </div>
     </div>
   );
