@@ -1,5 +1,5 @@
 "use client";
-import { useMemo, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 import Sparkle from "../components/Sparkle";
 import { Search } from "lucide-react";
 import data24 from "@/public/data-angkatan-steik/24.json";
@@ -7,6 +7,7 @@ import data23 from "@/public/data-angkatan-steik/23.json";
 import data22 from "@/public/data-angkatan-steik/22.json";
 import data21 from "@/public/data-angkatan-steik/21.json";
 import Card from "../components/Card";
+import Dialog from "../components/Dialog";
 
 export interface IDataAngkatan {
   No?: number; // Only 23-24
@@ -36,6 +37,13 @@ export default function Page() {
       ),
     [],
   );
+  const [curr, setCurr] = useState<IDataAngkatan | null>(null);
+  const openDialog = useCallback((item: IDataAngkatan | null) => {
+    setCurr(item);
+  }, []);
+  const closeDialog = useCallback(() => {
+    setCurr(null);
+  }, []);
   return (
     <div className="relative flex h-dvh flex-col gap-4 overflow-hidden text-center">
       <Sparkle position="tr" />
@@ -58,7 +66,7 @@ export default function Page() {
       </div>
       <div
         id="daftarDataAngkatan"
-        className="mb-4 w-fit max-w-4xl grow space-y-4 self-center overflow-y-auto inset-shadow-sm"
+        className="mb-4 w-fit max-w-4xl grow space-y-4 self-center overflow-y-auto px-2 inset-shadow-sm"
       >
         {inputValue.trim().length > 4 ? (
           dataAngkatan
@@ -70,10 +78,15 @@ export default function Page() {
                   .includes(inputValue.toLowerCase()),
               ),
             )
-            .map((e, i) => <Card data={e} key={i} />)
+            .map((e, i) => <Card data={e} key={i} dialogData={openDialog} />)
         ) : (
           <p>Type longer keyword</p>
         )}
+        <Dialog
+          data={curr}
+          closeDialog={closeDialog}
+          setCurr={(e: IDataAngkatan | null) => setCurr(e)}
+        />
       </div>
     </div>
   );

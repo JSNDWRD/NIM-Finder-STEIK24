@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Sparkle from "./components/Sparkle";
 
 export default function NotFound() {
