@@ -33,7 +33,7 @@ export default function Dialog({
   const akhiran = data?.["NIM Jurusan"].toString().substring(5);
   const lokasi =
     data?.Kampus ??
-    (prodi === "135" ? data?.Jurusan.slice(3) : data?.Jurusan.slice(4)) ??
+    data?.Jurusan.split(" ")[data?.Jurusan.split(" ").length - 1] ??
     "";
 
   /* Return array of object berisikan data generasi suatu NIM */
@@ -55,6 +55,9 @@ export default function Dialog({
 
   return (
     <div
+      onClick={(e) => {
+        if (e.target == e.currentTarget) closeDialog();
+      }}
       className={`absolute top-0 left-1/2 flex h-dvh w-dvw -translate-x-1/2 items-center justify-center p-2 backdrop-blur-md transition-opacity ${data ? "z-[100] opacity-100" : "pointer-events-none -z-50 opacity-0"}`}
     >
       <div className="flex min-h-40 w-full max-w-3xl flex-col gap-4 rounded-md border border-[#BFDBFE] bg-gradient-to-br from-[#244296] to-[#354F9A] px-6 py-4 text-start drop-shadow-md transition-colors hover:from-[#354F9A] hover:to-[#244296]">
@@ -97,7 +100,7 @@ export default function Dialog({
             Kampus {lokasi}
           </p>
         </div>
-        <ol className="mx-auto my-12 flex w-full items-center lg:w-xl">
+        <ol className="mx-auto my-12 flex w-full items-center sm:w-md lg:w-xl">
           {generasi.map((e) => {
             if (e.exist) {
               return (
@@ -113,8 +116,28 @@ export default function Dialog({
                     }}
                     className="relative flex shrink-0 cursor-pointer flex-col items-center"
                   >
-                    <span className="absolute -top-8 left-1/2 -translate-x-1/2 font-bold whitespace-nowrap">
+                    <span className="absolute -top-8 left-1/2 -translate-x-1/2 text-xs font-bold whitespace-nowrap sm:text-base">
                       {e.NIM}
+                    </span>
+                    <span
+                      className={`flex h-6 w-6 items-center gap-4 rounded-full bg-[#BFDBFE] ${e.NIM == data?.["NIM Jurusan"].toString() ? "border border-white/35 drop-shadow-md drop-shadow-[#BFDBFE]" : ""}`}
+                    ></span>
+                    <span
+                      className={`absolute -bottom-10 left-1/2 -translate-x-1/2 rounded-full px-2 text-xs font-bold whitespace-nowrap sm:text-base ${colorMap[e.tahun]} ${e.NIM == data?.["NIM Jurusan"].toString() ? "border border-white/35 drop-shadow-sm drop-shadow-[#BFDBFE]" : ""}`}
+                    >
+                      20{e.tahun}
+                    </span>
+                  </button>
+                  <hr className="grow border" />
+                </li>
+              );
+            } else {
+              return (
+                <li key={e.tahun} className="flex grow items-center">
+                  <hr className="grow border" />
+                  <button className="relative flex shrink-0 cursor-pointer flex-col items-center">
+                    <span className="absolute -top-8 left-1/2 -translate-x-1/2 font-bold whitespace-nowrap">
+                      X
                     </span>
                     <span
                       className={`flex h-6 w-6 items-center gap-4 rounded-full bg-[#BFDBFE] ${e.NIM == data?.["NIM Jurusan"].toString() ? "border border-white/35 drop-shadow-md drop-shadow-[#BFDBFE]" : ""}`}
