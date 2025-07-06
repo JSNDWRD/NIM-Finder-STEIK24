@@ -22,7 +22,9 @@ export default function Home() {
         <br />
         <span className="text-gradient pr-2 font-serif italic">Garden</span>
       </h1>
-      <p>View our notes and find NIMs of students from IF and STI here!</p>
+      <p className="px-4">
+        View our notes and find NIMs of students from IF and STI here!
+      </p>
       <div className="flex items-center gap-6 max-md:flex-col max-md:justify-center md:justify-between">
         <Link href={"/NIM-Finder"}>
           <Button>
@@ -32,7 +34,7 @@ export default function Home() {
             <Search className="ml-auto rotate-90" size={20} />
           </Button>
         </Link>
-        <Link href={"/Gallery"}>
+        <Link href={"/Notes"}>
           <Button>
             <span className="absolute left-1/2 -translate-x-1/2">
               Check out our Notes

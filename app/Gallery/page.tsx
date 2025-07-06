@@ -32,7 +32,6 @@ export default async function Page() {
                     src={`/gallery/${e}`}
                     alt={e}
                     quality={70}
-                    priority={true}
                     fill
                     className="rounded-md object-cover"
                   />
