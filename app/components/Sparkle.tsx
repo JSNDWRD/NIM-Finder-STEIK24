@@ -25,7 +25,7 @@ export default function Sparkle({
       color="rgba(165,243,252,0.2)"
       strokeWidth={1.5}
       aria-hidden={"true"}
-      className={`pointer-events-none absolute z-0 ${classes} size-[540px] md:size-[768px] lg:size-[1024px]`}
+      className={`pointer-events-none fixed z-0 ${classes} size-[540px] md:size-[768px] lg:size-[1024px]`}
     />
   );
 }

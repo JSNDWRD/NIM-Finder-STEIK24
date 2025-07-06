@@ -15,7 +15,7 @@
 /* template breakpoints */
 @layer base {
   h1 {
-    @apply text-5xl font-bold tracking-tight md:text-6xl xl:text-8xl;
+    @apply text-6xl font-bold tracking-tight sm:text-7xl xl:text-8xl;
   }
 
   h2 {
