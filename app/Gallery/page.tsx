@@ -15,11 +15,11 @@ export default async function Page() {
       <p className="text-center">
         Let&apos;s venture back through our first year!
       </p>
-      <div className="mx-auto grid w-fit grid-cols-1 justify-items-center gap-8 p-4 md:grid-cols-2">
+      <div className="mx-auto grid w-full grid-cols-1 justify-items-center gap-8 p-4 md:grid-cols-2 lg:grid-cols-3">
         {galleryFns.map((e, i) => {
           return (
             <div
-              className="h-64 w-96 rounded-lg border border-[#7C98DC]/30 bg-gradient-to-br from-[#244296] to-[#0891B2] p-4 shadow-inner shadow-[#7C98DC] max-sm:h-48 max-sm:w-72"
+              className="h-64 w-full rounded-lg border border-[#7C98DC]/30 bg-gradient-to-br from-[#244296] to-[#0891B2] p-4 shadow-inner shadow-[#7C98DC] max-md:h-48 max-md:w-72"
               key={e}
             >
               <div className="flex h-full flex-col">
@@ -31,6 +31,8 @@ export default async function Page() {
                   <Image
                     src={`/gallery/${e}`}
                     alt={e}
+                    quality={70}
+                    priority={true}
                     fill
                     className="rounded-md object-cover"
                   />
