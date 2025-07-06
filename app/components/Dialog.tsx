@@ -1,4 +1,4 @@
-import { IDataAngkatan } from "../nim-finder-temp/page";
+import { IDataAngkatan } from "../nim-finder/page";
 import { MapPin, School, X } from "lucide-react";
 import data24 from "@/public/data-angkatan-steik/24.json";
 import data23 from "@/public/data-angkatan-steik/23.json";
