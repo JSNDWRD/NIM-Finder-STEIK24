@@ -15,15 +15,15 @@ export default function Navigation() {
     },
     {
       name: "NIM Finder",
-      url: "/NIM-Finder",
+      url: "/nim-finder",
     },
     {
       name: "Notes",
-      url: "/Notes",
+      url: "/notes",
     },
     {
       name: "Gallery",
-      url: "/Gallery",
+      url: "/gallery",
     },
   ];
   const [showMenu, setShowMenu] = useState(false);

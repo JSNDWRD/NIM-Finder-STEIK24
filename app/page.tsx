@@ -26,7 +26,7 @@ export default function Home() {
         View our notes and find NIMs of students from IF and STI here!
       </p>
       <div className="flex items-center gap-6 max-md:flex-col max-md:justify-center md:justify-between">
-        <Link href={"/NIM-Finder"}>
+        <Link href={"/nim-finder"}>
           <Button>
             <span className="absolute left-1/2 -translate-x-1/2">
               Check out our NIM Finder
@@ -34,7 +34,7 @@ export default function Home() {
             <Search className="ml-auto rotate-90" size={20} />
           </Button>
         </Link>
-        <Link href={"/Notes"}>
+        <Link href={"/notes"}>
           <Button>
             <span className="absolute left-1/2 -translate-x-1/2">
               Check out our Notes

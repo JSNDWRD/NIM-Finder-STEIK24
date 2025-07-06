@@ -1,5 +1,5 @@
 import { MapPin, School } from "lucide-react";
-import { IDataAngkatan } from "../NIM-Finder/page";
+import { IDataAngkatan } from "../nim-finder/page";
 
 const colorMap: Record<string, string> = {
   "24": "text-[#3CB9C8] bg-[#A5F3FC]",
