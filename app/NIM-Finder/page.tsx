@@ -100,7 +100,7 @@ export default function Page() {
   return (
     <div className="relative flex h-dvh flex-col gap-4 overflow-hidden text-center">
       <Sparkle position="tr" />
-      <p className="mt-36">Our very own</p>
+      <p className="mt-16 md:mt-36">Our very own</p>
       <h1 className="text-gradient">
         <span>NIM</span>
         <span className="pr-4 pl-2 font-serif italic">Finder</span>

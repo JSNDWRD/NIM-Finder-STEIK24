@@ -9,7 +9,7 @@ export default async function Page() {
   return (
     <div className="relative h-dvh overflow-x-hidden overflow-y-auto">
       <Sparkle position="br" />
-      <h1 className="text-gradient mt-40 pb-3 text-center font-serif italic">
+      <h1 className="text-gradient mt-20 pb-3 text-center font-serif italic md:mt-40">
         Gallery
       </h1>
       <p className="text-center">
@@ -41,7 +41,7 @@ export default async function Page() {
           );
         })}
       </div>
-      <p className="mb-6 text-center">and many more memories waiting...</p>
+      <p className="mb-20 text-center">and many more memories waiting...</p>
     </div>
   );
 }

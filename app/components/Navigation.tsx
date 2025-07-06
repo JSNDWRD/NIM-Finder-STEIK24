@@ -42,7 +42,7 @@ export default function Navigation() {
             <span className="pr-1 font-serif italic">Garden</span>
           </span>
         </div>
-        <button className="max-md:blocks" onClick={toggleMenu}>
+        <button className="hidden max-md:block" onClick={toggleMenu}>
           {showMenu ? <X /> : <AlignJustify />}
         </button>
         <div className="hidden items-center gap-4 *:font-medium sm:gap-6 md:flex">
