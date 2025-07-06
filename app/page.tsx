@@ -34,7 +34,7 @@ export default function Home() {
             <Search className="ml-auto rotate-90" size={20} />
           </Button>
         </Link>
-        <Link href={"/notes"}>
+        <Link href={"https://digital-garden-steik24.vercel.app/"}>
           <Button>
             <span className="absolute left-1/2 -translate-x-1/2">
               Check out our Notes

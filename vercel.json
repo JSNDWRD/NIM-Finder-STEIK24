@@ -1,9 +1,0 @@
-{
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "rewrites": [
-    {
-      "source": "/notes/:path*",
-      "destination": "https://digital-garden-seven-vert.vercel.app/:path*"
-    }
-  ]
-}

@@ -19,7 +19,7 @@ export default function Navigation() {
     },
     {
       name: "Notes",
-      url: "/notes",
+      url: "https://digital-garden-steik24-notes.vercel.app/",
     },
     {
       name: "Gallery",
