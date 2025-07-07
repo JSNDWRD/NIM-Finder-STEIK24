@@ -48,6 +48,7 @@ body {
   @apply overflow-hidden bg-gradient-to-br from-[rgba(15,23,42,1)] via-[rgba(30,58,138,1)] via-50% to-[rgba(15,23,42,1)] bg-cover bg-no-repeat;
   color: var(--foreground);
   font-family: var(--font-sans), sans-serif;
+  min-height: -webkit-fill-available;
 }
 
 .text-gradient {
