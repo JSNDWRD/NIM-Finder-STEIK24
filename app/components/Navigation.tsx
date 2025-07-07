@@ -58,7 +58,7 @@ export default function Navigation() {
         </div>
       </nav>
       <div
-        className={`absolute top-0 flex h-full w-full items-center justify-center bg-black/10 backdrop-blur-md transition-all md:hidden ${showMenu ? "z-40 opacity-100" : "pointer-events-none -z-40 opacity-0"}`}
+        className={`absolute top-0 flex h-screen w-screen items-center justify-center bg-black/10 backdrop-blur-md transition-all md:hidden ${showMenu ? "z-40 opacity-100" : "pointer-events-none -z-40 opacity-0"}`}
       >
         <div className="flex flex-col items-center gap-4 *:font-medium sm:gap-6">
           {urls.map((e, i) => (
