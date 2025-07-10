@@ -19,15 +19,11 @@ Fitur ini memungkinkan pencarian data mahasiswa angkatan 2021-2024 berdasarkan:
   - Lokasi kampus
   - Hubungan Kakak NIM dan Adik NIM antar angkatan
 
----
-
 ### 2. Note Compilator
 
 Repositori catatan berbasis **Markdown** yang dapat dikontribusikan melalui **Pull Request** di GitHub.
 
 > Untuk fitur Note Compilator dikembangkan di-repository lain yang dikhususkan untuk Quartz.
-
----
 
 ## Technology
 
@@ -38,14 +34,12 @@ Repositori catatan berbasis **Markdown** yang dapat dikontribusikan melalui **Pu
 - **GitHub dan Git**: Version control + collaboration
 - **Vercel**: Deployment gratis
 
----
-
 ## Menjalankan Project
 
 ```bash
 # Clone repository ini
-git clone https://github.com/username/digital-garden.git
-cd digital-garden
+git clone https://github.com/JSNDWRD/digital-garden-steik24.git
+cd digital-garden-steik24
 
 # Install packages / dependencies yang diperlukan
 npm install
