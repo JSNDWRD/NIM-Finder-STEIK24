@@ -48,6 +48,7 @@ body {
   @apply overflow-hidden bg-gradient-to-br from-[rgba(15,23,42,1)] via-[rgba(30,58,138,1)] via-50% to-[rgba(15,23,42,1)] bg-cover bg-no-repeat;
   color: var(--foreground);
   font-family: var(--font-sans), sans-serif;
+  min-height: -webkit-fill-available;
 }
 
 .text-gradient {
@@ -56,4 +57,21 @@ body {
 
 .bg-gradient {
   @apply bg-gradient-to-r from-[rgba(37,99,235,1)] to-[rgba(8,145,178,1)] bg-no-repeat drop-shadow-md drop-shadow-black/20;
+}
+
+body > div {
+  filter: blur(10px);
+  animation: blurAnimation 0.3s ease-in forwards;
+}
+
+@keyframes blurAnimation {
+  20% {
+    filter: blur(8px);
+  }
+  90% {
+    filter: blur(1px);
+  }
+  100% {
+    filter: blur(0px);
+  }
 }

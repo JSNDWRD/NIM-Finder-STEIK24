@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import Navigation from "./components/Navigation";
@@ -13,6 +13,15 @@ const playfairDisplay = Playfair_Display({
   variable: "--font-playfair-display-serif",
   subsets: ["latin"],
 });
+
+export const viewport: Viewport = {
+  minimumScale: 1,
+  maximumScale: 1,
+  initialScale: 1,
+  height: "device-height",
+  width: "device-width",
+  userScalable: false,
+};
 
 export const metadata: Metadata = {
   title: "STEI-K '24 Digital Garden",
