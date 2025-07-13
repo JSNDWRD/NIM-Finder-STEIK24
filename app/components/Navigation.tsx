@@ -30,7 +30,7 @@ export default function Navigation() {
   const toggleMenu = () => setShowMenu(!showMenu);
   return (
     <>
-      <nav className="fixed left-1/2 z-50 flex w-max -translate-x-1/2 items-center justify-center rounded-full border border-[rgba(37,99,235,0.2)] bg-gradient-to-b from-[rgba(255,255,255,0.3)] to-[rgba(255,255,255,0)] px-6 py-2 backdrop-blur-md max-md:bottom-6 max-md:p-3 md:top-14 md:w-2xl md:justify-between lg:w-3xl">
+      <nav className="fixed left-1/2 z-50 flex w-max -translate-x-1/2 items-center justify-center rounded-full border border-[rgba(37,99,235,0.2)] bg-gradient-to-b from-[rgba(255,255,255,0.3)] to-[rgba(255,255,255,0)] px-6 py-2 backdrop-blur-md max-md:bottom-6 max-md:p-3 md:top-14 md:w-2xl md:justify-between lg:w-3xl shadow-md">
         <div className="flex items-center gap-2 max-md:hidden">
           <Image
             src={logoSTEIK24}

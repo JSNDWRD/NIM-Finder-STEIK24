@@ -25,7 +25,16 @@ export default function Sparkle({
       color="rgba(165,243,252,0.2)"
       strokeWidth={1.5}
       aria-hidden={"true"}
-      className={`pointer-events-none fixed z-0 ${classes} size-[540px] md:size-[768px] lg:size-[1024px]`}
+      className={`pointer-events-none fixed z-0 animate-float ${classes} size-[540px] md:size-[768px] lg:size-[1024px]`}
     />
   );
 }
+
+// Add the following to your globals.css or a relevant CSS file:
+// @keyframes float {
+//   0%, 100% { transform: translateY(0); }
+//   50% { transform: translateY(-32px); }
+// }
+// .animate-float {
+//   animation: float 4s ease-in-out infinite;
+// }
