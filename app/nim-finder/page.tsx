@@ -101,14 +101,14 @@ export default function Page() {
     <div className="relative flex h-dvh flex-col gap-4 overflow-hidden text-center">
       <Sparkle position="tr" />
       <p className="mt-16 md:mt-36">Our very own</p>
-      <h1 className="text-gradient">
+      <h1 className="text-gradient mb-5 md:text-9xl">
         <span>NIM</span>
         <span className="pr-4 pl-2 font-serif italic">Finder</span>
       </h1>
-      <div className="mx-auto flex w-fit items-center gap-2 rounded-full bg-gradient-to-b from-[#A5F3FC] to-[#7C98DC] px-4">
+      <div className="mx-auto flex w-1/3 items-center gap-2 rounded-full bg-gradient-to-b from-[#A5F3FC] to-[#7C98DC] px-4">
         <Search className="rotate-90" />
         <input
-          className="p-2 font-medium focus:outline-none"
+          className="p-2 font-medium focus:outline-none w-full"
           type="text"
           placeholder="Cari NIM / Nama / ..."
           value={inputValue}
@@ -118,9 +118,10 @@ export default function Page() {
         />
       </div>
       <div className="mx-auto hidden flex-col items-center gap-2 *:w-max *:border *:border-[#7C98DC] *:bg-gradient-to-r *:from-[#244296] *:to-[#1E3A8A] **:font-medium *:*:last:*:bg-[#244296] *:*:last:p-2 *:*:last:text-center **:focus:outline-none lg:flex lg:flex-row">
-        <div className="flex w-fit items-center gap-2 rounded-full px-4">
+        <div className="flex w-fit items-center gap-2 rounded-full px-4 hover:cursor-pointer hover:brightness-110">
           <ArrowDownUp strokeWidth={1} />
           <select
+            className="hover:cursor-pointer"
             name="sortNIM"
             id="sortNIM"
             value={sortNFilter.sortNIM}
@@ -136,9 +137,10 @@ export default function Page() {
             <option value="desc">Descending</option>
           </select>
         </div>
-        <div className="flex w-fit items-center gap-2 rounded-full px-4">
+        <div className="flex w-fit items-center gap-2 rounded-full px-4 hover:brightness-110 hover:cursor-pointer">
           <AlignLeft strokeWidth={1} />
           <select
+            className="hover:cursor-pointer"
             name="filterAngkatan"
             id="filterAngkatan"
             value={sortNFilter.filterAngkatan}
@@ -156,9 +158,10 @@ export default function Page() {
             <option value="24">2024</option>
           </select>
         </div>
-        <div className="flex w-fit items-center gap-2 rounded-full px-4">
+        <div className="flex w-fit items-center gap-2 rounded-full px-4 hover:brightness-110 hover:cursor-pointer">
           <MapPin strokeWidth={1} />
           <select
+            className="hover:cursor-pointer"
             name="filterKampus"
             id="filterKampus"
             value={sortNFilter.filterKampus}
@@ -174,9 +177,10 @@ export default function Page() {
             <option value="Jatinangor">Jatinangor</option>
           </select>
         </div>
-        <div className="flex w-fit items-center gap-2 rounded-full px-4 text-nowrap">
+        <div className="flex w-fit items-center gap-2 rounded-full px-4 text-nowrap hover:brightness-110 hover:cursor-pointer">
           <GraduationCap strokeWidth={1} />
           <select
+            className="hover:cursor-pointer"
             name="filterJurusan"
             id="filterJurusan"
             value={sortNFilter.filterJurusan}

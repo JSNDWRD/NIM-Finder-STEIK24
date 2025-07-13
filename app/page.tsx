@@ -1,3 +1,4 @@
+'use client';
 import Link from "next/link";
 import Button from "./components/Button";
 import { Notebook, Search } from "lucide-react";
@@ -17,7 +18,7 @@ export default function Home() {
         />
         <p>Welcome to STEI-K &apos;24</p>
       </div>
-      <h1>
+      <h1 className="text-7xl md:text-9xl">
         <span className="text-gradient font-sans">Digital</span>
         <br />
         <span className="text-gradient pr-2 font-serif italic">Garden</span>
@@ -28,18 +29,18 @@ export default function Home() {
       <div className="flex items-center gap-6 max-md:flex-col max-md:justify-center md:justify-between">
         <Link href={"/nim-finder"}>
           <Button>
-            <span className="absolute left-1/2 -translate-x-1/2">
-              Check out our NIM Finder
+            <span className="ml-6">
+              Check out our NIM Finder!
             </span>
             <Search className="ml-auto rotate-90" size={20} />
           </Button>
         </Link>
         <Link href={"https://digital-garden-steik24-notes.vercel.app/"}>
           <Button>
-            <span className="absolute left-1/2 -translate-x-1/2">
-              Check out our Notes
+            <span className="ml-4">
+              Check out our Notes Collection!
             </span>
-            <Notebook className="ml-auto" size={20} />
+            <Notebook className="ml-3" size={20} />
           </Button>
         </Link>
       </div>
